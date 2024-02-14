@@ -5278,9 +5278,9 @@ react-dom@^18.2.0:
     scheduler "^0.23.0"
 
 react-horizontal-scrolling-menu@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/react-horizontal-scrolling-menu/-/react-horizontal-scrolling-menu-4.1.1.tgz#1af2862c085b5c7baf950bfa743bec7feb278905"
-  integrity sha512-IahECLO4ovahv/JWYYJf9AkiAznx/oI7G0zKkiAj9GCJTPp+s+susIFsTSnzWxWhHrnSZ1F6flp2yEbrqoGnVg==
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/react-horizontal-scrolling-menu/-/react-horizontal-scrolling-menu-4.1.4.tgz#b2c665f9d7c03a0781ad86f992f4338000fc2337"
+  integrity sha512-ZkfIRD53moaQnvK0kTJNEVS+lIYbL490evVkMWEPs9l3bHFaMYP/pKdbaiKlyGBx4rA9xlNBa16ZOXH57ZIOXQ==
   dependencies:
     smooth-scroll-into-view-if-needed "~1.1"
 
