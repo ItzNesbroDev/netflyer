@@ -405,9 +405,9 @@
     to-fast-properties "^2.0.0"
 
 "@consumet/extensions@^1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@consumet/extensions/-/extensions-1.5.2.tgz#d466906e333d91d82333acbc17075b0fbd299b6f"
-  integrity sha512-6HSTatWrPBp6k/g2extohMMtpIskjfPCnTVmqkc/1v+82K+M3FY2j/uKZOzx3eMqSrX3Vm6XFqIvrfo/PGbd/Q==
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/@consumet/extensions/-/extensions-1.5.6.tgz#8c839c12692fe5e784615b779ccb8163cd590c20"
+  integrity sha512-0ei+FXT2eQAMNGwpfGL7i4C6f9lthrtagMABbVANQa/+qimN/Y+00H+g+u/nynVlECiouYF2T8R9SFE3eusKmg==
   dependencies:
     ascii-url-encoder "^1.2.0"
     axios "^0.27.2"
